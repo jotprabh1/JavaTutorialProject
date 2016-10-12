@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".JavaTutorials">
+    <item
+        android:id="@+id/tutorials"
+        android:title="Tutorials"
+    />
+    <item
+        android:id="@+id/programs"
+        android:title="Programs"
+        />
+    <item
+        android:id="@+id/exit"
+        android:title="Exit"
+        />
+</menu>
